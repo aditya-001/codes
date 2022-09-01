@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aditya1117/codes/mlruns/1/4f903e55a6764fd99f24dbfdd7efc5ee/artifacts
+end_time: 1661718760391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4f903e55a6764fd99f24dbfdd7efc5ee
+run_uuid: 4f903e55a6764fd99f24dbfdd7efc5ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661718758545
+status: 3
+tags: []
+user_id: aditya1117
